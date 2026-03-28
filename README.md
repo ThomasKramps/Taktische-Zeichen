@@ -11,7 +11,7 @@ Taktische Zeichen für Hilfsorganisationen als Vektorgrafiken.
 ![Zugtrupp - THW](/examples/Zugtrupp.png)
 
 ## Fehlende Zeichen
-Fehlende zeichen können als [issue](https://github.com/jonas-koeritz/Taktische-Zeichen/issues) eingereicht werden, Ich erstelle die Symbole dann.
+Fehlende Zeichen können als [issue](https://github.com/jonas-koeritz/Taktische-Zeichen/issues) eingereicht werden, Ich erstelle die Symbole dann.
 
 ## Aufbau der Symbole
 Die .SVG Dateien haben die Maße 256x256 Einheiten, Alle Zeichen müssen in diesem Bereich dargestellt werden und mittig ausgerichtet sein.
