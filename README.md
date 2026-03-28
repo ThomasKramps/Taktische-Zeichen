@@ -3,12 +3,12 @@
 # Taktische-Zeichen
 Taktische Zeichen für Hilfsorganisationen als Vektorgrafiken.
 
-![Zugführer - THW](https://rawgit.com/jonas-koeritz/Taktische-Zeichen/master/examples/Zugführer.png)
-![Löschzug](https://rawgit.com/jonas-koeritz/Taktische-Zeichen/master/examples/Löschzug.png)
-![Leitstelle](https://rawgit.com/jonas-koeritz/Taktische-Zeichen/master/examples/Leitstelle.png)
-![Gerettete Person](https://rawgit.com/jonas-koeritz/Taktische-Zeichen/master/examples/Gerettete_Person.png)
-![Gefahr durch Explosivstoffe](https://rawgit.com/jonas-koeritz/Taktische-Zeichen/master/examples/Gefahr_durch_Explosivstoffe.png)
-![Zugtrupp - THW](https://rawgit.com/jonas-koeritz/Taktische-Zeichen/master/examples/Zugtrupp.png)
+![Zugführer - THW](/examples/Zugführer.png)
+![Löschzug](/examples/Löschzug.png)
+![Leitstelle](/examples/Leitstelle.png)
+![Gerettete Person](/examples/Gerettete_Person.png)
+![Gefahr durch Explosivstoffe](/examples/Gefahr_durch_Explosivstoffe.png)
+![Zugtrupp - THW](/examples/Zugtrupp.png)
 
 ## Fehlende Zeichen
 Fehlende zeichen können als [issue](https://github.com/jonas-koeritz/Taktische-Zeichen/issues) eingereicht werden, Ich erstelle die Symbole dann.
