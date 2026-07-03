@@ -44,7 +44,7 @@ make release
 ```
 
 ## Voraussetzungen
-Als Voraussetzung für den Buildvorgang werden die Programme: [j2cli](https://github.com/kolypto/j2cli), [PhantomJS](http://phantomjs.org/), und [optipng](http://optipng.sourceforge.net/) im Systempfad vorausgesetzt. Zum erstellen der SVG-Dateien ist nur j2cli erforderlich. (Die version von PhantomJS in den ubuntu repositories funktioniert nicht, daher sollte man in dem Fall PhantomJS von der Webseite installieren.)
+Als Voraussetzung für den Buildvorgang werden die Programme: [j2cli](https://github.com/kolypto/j2cli), [Inkscape](https://inkscape.org/), und [optipng](http://optipng.sourceforge.net/) im Systempfad vorausgesetzt. Zum erstellen der SVG-Dateien ist nur j2cli erforderlich.
 
 ## Verwendung in QGIS
 
@@ -62,6 +62,7 @@ Der Code in diesem Repository steht unter [![License: CC BY 4.0](https://img.shi
 * [LARDIS:LIVE von RTM:IT](https://www.lardis.de)
 * [Taktische Zeichen Vorlagen Generator von Tristan Lins](https://tristanlins.gitlab.io/taktische-zeichen-vorlagen-generator/)
 * [Java Module mit taktische Zeichen von Luke Ian Turner](https://github.com/liturner/Taktische-Zeichen-Java)
+* [3D-Druck Generator von Philipp Gürth](https://pq5.de/pq5/3D-Tools/TaktischeZeichen/)
 
 Fehlt dein Projekt auf der Liste? Bitte direkt mit mir Kontakt aufnehmen oder eine Änderung an dieser Datei per Pull-Request einsenden.
 
